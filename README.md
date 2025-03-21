@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Erasmus Bill  
 
-I'm a **Junior Developer** with experience in **Django, Django Rest Framework, PHP (Laravel), JavaScript, and Vue.js**.  
+I'm a **Junior Developer** with experience in **Django, Django Rest Framework, PHP (Laravel), JavaScript,FastApi and Vue.js**.  
 I enjoy building **APIs, web applications, and solving complex backend problems**.
 
 ---
