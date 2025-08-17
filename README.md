@@ -29,7 +29,7 @@ I enjoy building **APIs, web applications, and solving complex backend problems*
 ---
 
 ## 📫 How to Reach Me  
-- 💼 [LinkedIn](https://www.linkedin.com/in/erasmus-charway-314424267/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/erasmus-charway-a603aa361/)  
 - 🐦 [Twitter](#)  
 - 📧 Email: erasmuschawey12345@gmail.com  
 
